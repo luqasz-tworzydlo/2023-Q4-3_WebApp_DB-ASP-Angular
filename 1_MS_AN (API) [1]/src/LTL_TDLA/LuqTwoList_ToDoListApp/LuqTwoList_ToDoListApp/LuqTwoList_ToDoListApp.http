@@ -1,6 +1,0 @@
-@LuqTwoList_ToDoListApp_HostAddress = http://localhost:5023
-
-GET {{LuqTwoList_ToDoListApp_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###

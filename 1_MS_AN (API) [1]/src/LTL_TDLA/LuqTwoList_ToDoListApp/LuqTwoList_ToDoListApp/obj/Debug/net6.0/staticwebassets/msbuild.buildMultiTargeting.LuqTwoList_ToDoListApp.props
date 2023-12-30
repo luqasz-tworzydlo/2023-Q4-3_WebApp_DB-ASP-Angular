@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\LuqTwoList_ToDoListApp.props" />
-</Project>
